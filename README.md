@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Sajjad Farhangi
-- 👀 I’m interested in HTML/CSS and a little Javascript
-- 🌱 I’m currently learning Programming for web in Harvard Univers
+- 👋 Hi, I’m Sajjad Farhangi!
+- 👀 I’m interested in HTML/CSS and a little Javascript.
+- 🌱 I’m currently learning Programming web with Python in Harvard University.
 - 💞️ I’m working at semicolon programming group, In Payamemam highschool in Tehran, Iran 
 - 📫 How to reach me : @3ajjad_farhangi on instagram
 - 😄 Pronouns: he/him
